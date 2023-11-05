@@ -1,3 +1,4 @@
+There is article by the project author to describe the project: https://engineering.finleap.com/posts/2020-02-20-ecs-fargate-terraform/ 
 # Terraform template for AWS ECS/Fargate
 
 This terraform setup can be used to setup the AWS infrastructure
